@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leeleersun.github.io/DesAIgnTools.github.io",
+  "homepage": "https://leeleersun.github.io/DesAIgnTools",
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
     "antd": "^5.12.5",
