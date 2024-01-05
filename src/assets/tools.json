@@ -1,0 +1,223 @@
+[
+  {
+    "title": "ChatMind",
+    "openSource": "未开源",
+    "href": "https://chatmind.tech/cn?ref=ai-bot.cn",
+    "input": "用户需求",
+    "output": "思维导图",
+    "inputType": 1,
+    "outputType": 2,
+    "avatar":"https://assets.chatmind.tech/prod/favicon.ico",
+    "brief": "优势：\n1.多模态支持： Chatmind支持多种输入方式，包括文本、语音、图像等，使用户能够更灵活地进行交互和思维导图创作。\n2.强大的上下文理解与生成： 由GPT-4驱动的Chatmind具备强大的上下文理解和生成能力，能够更好地理解用户输入并生成更有逻辑和连贯性的回应，有助于创建更智能化的思维导图。\n3.实时数据获取： Chatmind能够准确获取实时数据，为用户提供及时、最新的信息，有助于保持思维导图的时效性\n劣势：\n1.用户隐私问题\n2.依赖网络"
+  },
+
+  {
+    "title": "luma AI 3D",
+    "openSource": "未开源  ",
+    "href": "https://lumalabs.ai/",
+    "input": "场地现状",
+    "output": "数据可视化",
+    "inputType": 1,
+    "outputType": 2,
+    "avatar":"https://cdn-luma.com/public/lumalabs.ai/images/logo.png",
+    "brief": "优势;\n1.视频效果质量高、空间体积感强\n2.场景细节还原度高\n3.素材库模型可直接放置在其他视频中，丰富AR体验\n4.生成的视频体量小，可镶嵌在任何三维软件中\n5.3D模型生成器可以自定义材料和颜色\n劣势：\n1.需要基于对现有的空间进行拍摄，要能充分全面地展示空间，且不宜太过复杂\n2.生成时间较长\n3.对视频画面本身的创作较少\n应用：\n将平面效果图转化为空间漫游，更直观"
+  },
+  {
+    "title": "Wave Function Collapse",
+    "openSource": "已开源",
+    "href": "https://github.com/wavefunctioncollapse",
+    "input": "快速草图",
+    "output": "演示原型",
+    "inputType": 3,
+    "outputType": 4,
+    "avatar":"",
+    "brief": "优势：\n1.可视化生成过程\n2.自定场景、构件类型\n3.算法支持下的城市建筑生成\n4.生成结果可导出光照渲染模型\n劣势：\n1.需要依赖Bitmap的城市建筑定义\n2.需要对构件进行拆解，使得算法理解各部件之间的关系\n3.较为依赖算法的生成结果，无法定向修改微调结果\n应用：\n将建筑构件分解，生成城市示例建筑导出3D模型"
+  },
+  {
+    "title": "Arnis",
+    "openSource": "已开源",
+    "href": "https://github.com/Arnis",
+    "input": "场地现状",
+    "output": "数据可视化",
+    "inputType": 1,
+    "outputType": 2,
+    "avatar":"https://avatars.githubusercontent.com/u/26318621?v=4",
+    "brief": "优势：\n1.以软件流程化为主导，按步骤生成城市\n2.通过像素堆叠的方式对城市模型进行更新\n3.快速生成城市像素模型，相较于成熟商用软件缩短生成时间\n4.与真实世界对应，通过真实比例缩放还原真实世界"
+  },
+  {
+    "title": "Arnis for Test",
+    "openSource": "已开源",
+    "href": "https://github.com/Arnis",
+    "input": "场地现状",
+    "output": "问题陈述",
+    "inputType": 1,
+    "outputType": 2,
+    "avatar":"https://avatars.githubusercontent.com/u/26318621?v=4",
+    "brief": "优势：\n1.以软件流程化为主导，按步骤生成城市\n2.通过像素堆叠的方式对城市模型进行更新\n3.快速生成城市像素模型，相较于成熟商用软件缩短生成时间\n4.与真实世界对应，通过真实比例缩放还原真实世界"
+  },
+  {
+    "title": "City Tour",
+    "openSource": " 已开源",
+    "href": "https://www.joelstrait.com/citytour/",
+    "input": "数字原型",
+    "output": "打分",
+    "inputType": 4,
+    "outputType": 5,
+    "avatar":"",
+    "brief": "优势：\n1.网页端即可打开应用\n2.快速生成城市结构\n3.根据生成条件进行规则生成，可添加条件\n4.生成结果可进一步进行3D漫游活动\n劣势：\n1.开源工具处于初期阶段，交互生成功能拓展较少\n2.生成结果暂时还无法导出，只能通过可视化手段展示\n3.生成模型还没有对更多类型的建筑支持，细节少\n应用：\n根据基础条件生成城市意向多方案，快速筛选"
+  },
+  {
+    "title": "Autodesk forma",
+    "openSource": "未开源",
+    "href": "https://www.autodesk.com/products/forma/overview",
+    "input": "数字原型",
+    "output": "打分",
+    "inputType": 4,
+    "outputType": 5,
+    "avatar": "https://damassets.autodesk.net/content/dam/autodesk/www/products/autodesk-forma/fy24/overview/images/better-decision-support-analytics-thumb-1172x660.jpg",
+    "brief": "优势：\n1.集“统一数据库”和“平台组件”为一体\n2.内部开发连接器较完整，可以对Rhino、SketchUp等产品数据实现无缝流动\n3.能快速完成数据模拟和各指标可视化生成\n4.能在项目实施前帮助识别潜在缺陷"
+  },
+  {
+    "title": "GenZi",
+    "openSource": "已开源",
+    "href": "https://craigleili.github.io/projects/genzi/",
+    "input": "用户故事",
+    "output": "数字原型",
+    "inputType": 3,
+    "outputType": 4,
+    "avatar":"https://craigleili.github.io/assets/img/2023-genzi-pipeline.jpg",
+    "brief": "优势：\n1.是一种零样本的方法，无需提供人-场景的3d交互数据的支持\n2.适用于不同的场景类型，具有灵活性和通用性，包括室内和室外环境\n劣势：\n1.需要大型视觉语言模型（VLM）和3D场景数据\n2.目前只能生成一个人"
+  },
+  {
+    "title": "小库xkool",
+    "openSource": "未开源",
+    "href": "https://www.xkool.ai/",
+    "input": "快速草图",
+    "output": "数字原型",
+    "inputType": 3,
+    "outputType": 4,
+    "avatar":"https://www.xkool.ai/_next/static/media/about_us.6c57b4b7.png",
+    "brief": "优势：\n1.对图片，平面图纸，3D模型均能AI生成\n2.输入实地地块参数即可生成部分城市规划\n3.内部开发连接器较完整，可以对Rhino、SketchUp等产品数据实现流动\n劣势：\n1.UI版面较复杂，使用流程不够简洁\n2.目前开放的控制参数不够，不能深化细致效果\n应用：\n1.常见分析图一键生成\n2.快速形成指定地段周边数据"
+  },
+  {
+    "title": "Mobius",
+    "openSource": "未开源",
+    "href": "https://mobius.design-automation.net/",
+    "input": "数字原型",
+    "output": "应用",
+    "inputType": 4,
+    "outputType": 5,
+    "avatar":"https://mobius.design-automation.net/assets/images/mobius_08_geo.png",
+    "brief": "优势：\n1.可以发布为交互式网页，其他人可以访问和探讨\n2.可以操作各种数据类型，包括地理空间和非地理空间数据\n3.允许开发用于生成复杂 3D 模型的程序建筑物和城市社区\n4.包含各种开源工具和库，用于支持空间计算\n劣势：\n1.最新版本是2017 年至 2018 年之间开发的"
+  },
+  {
+    "title": "Urban Growth Prediction Model",
+    "openSource": "已开源",
+    "href": "https://github.com/EL-BID/Modelo-de-prediccion-de-crecimiento-urbano-",
+    "input": "数字原型",
+    "output": "应用",
+    "inputType": 4,
+    "outputType": 5,
+    "avatar":"https://github.com/EL-BID/Modelo-de-prediccion-de-crecimiento-urbano-/raw/master/img/restrictor_smart_scenario.png",
+    "brief": "优势：\n1.可以在一定限制条件下模拟城市增长，与国土空间规划的需求形成对接\n2.可以预测城市增长带来的发展程度上的差异\n劣势：\n1.使用栅格数据输入（表示坡度、无生长区域、交通网络和便利设施等要素）来预测未来的城市土地开发模式，需要取得要求的数据源\n2.基于可用的数据集，在空间上明确地生成发展吸引力图和增长预测，几乎不涉及人工干预"
+  },
+  {
+    "title": "Arko AI",
+    "openSource": "未开源",
+    "href": "https://arko.ai/",
+    "input": "快速草图",
+    "output": "演示原型",
+    "inputType": 3,
+    "outputType": 4,
+    "avatar":"https://img1.wsimg.com/isteam/ip/e49bff1c-8df6-4746-8ee5-ea0bfda27bdd/Logo%20with%20name%20transparent%20background.png/:/rs=w:282,h:94,cg:true,m/cr=w:282,h:94/qt=q:95",
+    "brief": "优势:\n1.易装易用，\n2插件形式，可即时渲染 \n3.适用度广(工业设计、建筑、规划、景观、室内 )\n劣势：\n1.正式版价格较高(39美元/月)\n2.渲染能力较为初级，对模型理解能力有限"
+  },
+  {
+    "title": "GaussianSpace",
+    "openSource": "已开源",
+    "href": "https://gaussianspace.github.io/",
+    "input": "快速草图",
+    "output": "演示原型",
+    "inputType": 3,
+    "outputType": 4,
+    "avatar":"",
+    "brief": "优势：\n1.用文字引导编辑三维高斯（3D Gaussian Splatting）大场景\n2.引入了一种自动加权损失技术，以稳步降低整体损失，确保编辑后的高斯场景适应文本指令，同时保留其原始结构特征\n劣势：\n1. 生成的3d场景是点云格式的，不是在规划设计中常用的几何格式\n2. 偏向于对风格和外观的生成"
+  },
+  {
+    "title": "Ctrl-Room",
+    "openSource": "已开源",
+    "href": "https://fangchuan.github.io/ctrl-room.github.io/",
+    "input": "问题陈述",
+    "output": "快速草图",
+    "inputType": 2,
+    "outputType": 3,
+    "avatar":"https://fangchuan.github.io/ctrl-room.github.io/static/images/system_overview.jpg",
+    "brief": "优势：\n1.实现了布局和外观的分离，能够在布局约束下通过文本驱动对3d场景的编辑\n2.用户能够轻松调整生成的3D房间模型中的家具大小、语义类别和位置\n劣势：\n1.由于方法分为两个阶段进行，可能导致生成的3D房间在布局和外观之间的一致性问题\n2.3d编辑过程可能会增加交互的复杂性"
+  },
+  {
+    "title": "Ctrl-Room",
+    "openSource": "已开源",
+    "href": "https://fangchuan.github.io/ctrl-room.github.io/",
+    "input": "问题陈述",
+    "output": "故事版",
+    "inputType": 2,
+    "outputType": 3,
+    "avatar":"https://fangchuan.github.io/ctrl-room.github.io/static/images/system_overview.jpg",
+    "brief": "优势：\n1.实现了布局和外观的分离，能够在布局约束下通过文本驱动对3d场景的编辑\n2.用户能够轻松调整生成的3D房间模型中的家具大小、语义类别和位置\n劣势：\n1.由于方法分为两个阶段进行，可能导致生成的3D房间在布局和外观之间的一致性问题\n2.3d编辑过程可能会增加交互的复杂性"
+  },
+  {
+    "title": "3DStreet",
+    "openSource": "已开源",
+    "href": "https://github.com/3DStreet/3dstreet",
+    "input": "问题陈述",
+    "output": "快速草图",
+    "inputType": 2,
+    "outputType": 3,
+    "avatar":"https://raw.githubusercontent.com/kfarr/streetmix3d/master/ui_assets/streetmix3d.jpg",
+    "brief": "优势：\n1.软件开源，允许直接创建2d街道设计并转换为3d可视化效果\n2.建立在自定义 A-Frame 组件，可以用json字符串表示，可以被llm读取\n3.基于web的3d可视化，便于网页端分享\n劣势：\n1.仅涉及街道设计，没有更复杂的组件\n2.不支持过于复杂的方案"
+  },
+  {
+    "title": "3DStreet for Test",
+    "openSource": "已开源",
+    "href": "https://github.com/3DStreet/3dstreet",
+    "input": "问题陈述",
+    "output": "用户故事",
+    "inputType": 2,
+    "outputType": 3,
+    "avatar":"https://raw.githubusercontent.com/kfarr/streetmix3d/master/ui_assets/streetmix3d.jpg",
+    "brief": "优势：\n1.软件开源，允许直接创建2d街道设计并转换为3d可视化效果\n2.建立在自定义 A-Frame 组件，可以用json字符串表示，可以被llm读取\n3.基于web的3d可视化，便于网页端分享\n劣势：\n1.仅涉及街道设计，没有更复杂的组件\n2.不支持过于复杂的方案"
+  },
+  {
+    "title": "3dfier",
+    "openSource": "已开源",
+    "href": "https://github.com/tudelft3d/3dfier",
+    "input": "快速草图",
+    "output": "数字原型",
+    "inputType": 3,
+    "outputType": 4,
+    "avatar":"https://github.com/tudelft3d/3dfier/raw/master/docs/images/3dfierLogo.png",
+    "brief": "优势：\n1.有地形建模和简化的功能\n2.支持多边形和点云数据的读取，便于图纸转化\n劣势：\n1.不支持栅格数据的读取\n2.导出的是cityGML或者cityJSON格式文件，与规划设计常用的格式不一致"
+  },
+  {
+    "title": "PyGeo",
+    "openSource": "已开源",
+    "href": "https://github.com/mdolab/pygeo",
+    "input": "数字原型",
+    "output": "应用",
+    "inputType": 4,
+    "outputType": 5,
+    "avatar":"https://github.com/mdolab/pygeo/raw/main/doc/images/DPW4_FFD-27745.gif",
+    "brief": "优势：\n1.软件有完整的使用文档\n2.能够应用数学和计算机模拟来为物体实现广义的设计形态优化，即多学科设计优化（MDO）\n劣势：\n1.必须使用代码生成参数化的几何图形\n2.用户必须能够设置各种几何参数化和几何约束，以实现后续的梯度优化过程\n3.不太涉及美学考量"
+  },
+  {
+    "title": "Text-to-space based on Orillusion Engine",
+    "openSource": "未开源",
+    "href": "https://github.com/JsonAbraham/orillusion",
+    "input": "问题陈述",
+    "output": "快速草图",
+    "inputType": 2,
+    "outputType": 3,
+    "avatar":"https://github.com/Orillusion/orillusion-webgpu-samples/raw/main/logo_new.png",
+    "brief": "优势：\n1.能够通过文本快速搭建3d模型\n2.所使用的引擎开源\n劣势：\n1.提示词工程没有开源\n2.没有测试更复杂的场景"
+  }
+]

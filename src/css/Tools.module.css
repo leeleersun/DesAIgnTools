@@ -1,0 +1,32 @@
+.listContainer {
+    width: 95%;
+    margin: 0;
+    height: 90vh;
+    position: relative; /* 将容器设为相对定位 */
+  }
+  
+  .listItem {
+    position: relative; /* 列表项设为相对定位 */
+  }
+  
+  .tagSvgContainer {
+    position: absolute; /* 将容器设为绝对定位 */
+    top: 12px;
+    right: 0;
+    display: flex;
+    gap: 1px; /* 用于增加Tag和SVG之间的间距 */
+    align-items: center;
+    justify-content: space-between; /* 子元素平分容器的宽度 */
+  }
+  
+  
+  /* 这是为了确保Tag和SVG在同一水平线上 */
+  .ant-tag {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .divider{
+    border: 1px solid rgb(211, 210, 210)
+  }
+  
